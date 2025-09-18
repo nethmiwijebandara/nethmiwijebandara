@@ -4,8 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethmiwijebandara" alt="nethmiwijebandara" /></a></p>
 
+- - 👨‍💻 Currently working as a Software Engineer at Cloud Solutions International
 
-- 🔭 I’m currently studying on **University of Mortuwa**
+- 🔭 I’m a graduate from **University of Mortuwa**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nethmiwijebandara](https://github.com/nethmiwijebandara)
 
